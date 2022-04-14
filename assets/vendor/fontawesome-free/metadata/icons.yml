@@ -4373,7 +4373,7 @@ coins:
       - currency
       - dime
       - financial
-      - gold
+      - #DECC94
       - money
       - penny
   styles:
@@ -7596,7 +7596,7 @@ fish:
   search:
     terms:
       - fauna
-      - gold
+      - #DECC94
       - seafood
       - swimming
   styles:
@@ -14963,7 +14963,7 @@ quidditch:
       - ball
       - bludger
       - broom
-      - golden snitch
+      - #DECC94en snitch
       - harry potter
       - hogwarts
       - quaffle
@@ -15102,7 +15102,7 @@ rainbow:
   label: Rainbow
   search:
     terms:
-      - gold
+      - #DECC94
       - leprechaun
       - prism
       - rain
@@ -15518,7 +15518,7 @@ ring:
       - dnd
       - engagement
       - fantasy
-      - gold
+      - #DECC94
       - jewelry
       - marriage
       - precious
