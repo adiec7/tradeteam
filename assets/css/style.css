@@ -627,19 +627,24 @@ section {
 /* Featured Services Section
 --------------------------------*/
 #featured-services {
-  background: #c71f37;
+  background: #DECC94;
 }
 
 #featured-services .box {
   padding: 30px 20px;
+  color: #DECC94;
+}
+featured-services .box p{
+  color: #DECC94;
 }
 
 #featured-services .box-bg {
   background-image: linear-gradient(0deg, #000000 0%, #242323 50%, #000000 100%);
+  color: #18d26e;
 }
 
 #featured-services i {
-  color: #DECC94;
+  color: #18d26e;
   font-size: 48px;
   display: inline-block;
   line-height: 1;
@@ -649,10 +654,11 @@ section {
   font-weight: 400;
   margin: 15px 0;
   font-size: 18px;
+  color: #18d26e;
 }
 
 #featured-services h4 a {
-  color: #fff;
+  color: black !important;
 }
 
 #featured-services h4 a:hover {
@@ -662,7 +668,7 @@ section {
 #featured-services p {
   font-size: 14px;
   line-height: 24px;
-  color: #fff;
+  color: black;
   margin-bottom: 0;
 }
 
@@ -1240,6 +1246,7 @@ section {
 #testimonials .testimonial-item p {
   font-style: italic;
   margin: 0 auto 15px auto;
+  color: #000;
 }
 
 @media (min-width: 992px) {
@@ -1500,7 +1507,7 @@ section {
 #footer {
   background: ff9f1c;
   padding: 0 0 30px 0;
-  color: #eee;
+  color: black;
   font-size: 14px;
 }
 
@@ -1529,7 +1536,7 @@ section {
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Montserrat", sans-serif;
-  color: #eee;
+  color: black;
 }
 
 #footer .footer-top .social-links a {
@@ -1591,7 +1598,7 @@ section {
 
 #footer .footer-top .footer-links ul i {
   padding-right: 8px;
-  color: #ddd;
+  color: black;
 }
 
 #footer .footer-top .footer-links ul li {
@@ -1604,7 +1611,7 @@ section {
 }
 
 #footer .footer-top .footer-links ul a {
-  color: #eee;
+  color: black;
 }
 
 #footer .footer-top .footer-links ul a:hover {
