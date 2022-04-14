@@ -627,7 +627,7 @@ section {
 /* Featured Services Section
 --------------------------------*/
 #featured-services {
-  background: #DECC94;
+  background: black;
 }
 
 #featured-services .box {
@@ -644,7 +644,7 @@ featured-services .box p{
 }
 
 #featured-services i {
-  color: #18d26e;
+  color: whitesmoke;
   font-size: 48px;
   display: inline-block;
   line-height: 1;
@@ -654,7 +654,7 @@ featured-services .box p{
   font-weight: 400;
   margin: 15px 0;
   font-size: 18px;
-  color: #18d26e;
+  color: whitesmoke;
 }
 
 #featured-services h4 a {
@@ -668,7 +668,7 @@ featured-services .box p{
 #featured-services p {
   font-size: 14px;
   line-height: 24px;
-  color: black;
+  color: gold;
   margin-bottom: 0;
 }
 
